@@ -1,17 +1,12 @@
 <h3>Первый экран</h3>
-<img width="252" alt="image" src="https://github.com/engione/medic_app/assets/134282838/756b4d6d-d985-4a4d-8e2f-da266ff8eca8">
+![image](https://github.com/HadjiMurad1852/Medic-app-Adyshkin/assets/115141200/c786b64f-5fa6-458e-a52d-e4c8093cdc6f)
 <h3>Второй экран</h3>
-<img width="245" alt="image" src="https://github.com/engione/medic_app/assets/134282838/41b939d4-05f2-4606-8f8f-d6eac843d590">
+![image](https://github.com/HadjiMurad1852/Medic-app-Adyshkin/assets/115141200/ee37339a-8438-45f2-9acf-0060bfe80e5e)
 <h3>Третий экран</h3>
-<img width="259" alt="image" src="https://github.com/engione/medic_app/assets/134282838/aeee595d-e0b9-4609-9d48-35133ec2f2cc">
+![image](https://github.com/HadjiMurad1852/Medic-app-Adyshkin/assets/115141200/69066d20-db0e-4de7-863b-0c53981c0a82)
 <h3>Четвертый экран</h3>
-<img width="248" alt="image" src="https://github.com/engione/medic_app/assets/134282838/4f89b925-25e2-4677-8497-9ec6c30ab0ed">
+![image](https://github.com/HadjiMurad1852/Medic-app-Adyshkin/assets/115141200/889690eb-8dcb-4230-a16d-11b969405175)
 <h3>Пятый экран</h3>
-<img width="242" alt="image" src="https://github.com/engione/medic_app/assets/134282838/3732d6a7-3075-4737-b382-c76ea3880341">
+![image](https://github.com/HadjiMurad1852/Medic-app-Adyshkin/assets/115141200/c76c74c3-b031-4ad3-aea1-13d380d68aa9)
 <h3>Шестой экран</h3>
-<img width="246" alt="image" src="https://github.com/engione/medic_app/assets/134282838/9b735eb1-6cde-4227-961b-66c12d8f434f">
-
-
-![image](https://github.com/HadjiMurad1852/Medic-app-Adyshkin/assets/115141200/41f50c17-1ad0-41ac-8059-2e8469285f13)
-
-
+![image](https://github.com/HadjiMurad1852/Medic-app-Adyshkin/assets/115141200/9ffca712-a054-43d1-8e17-87dc36ab96c5)
